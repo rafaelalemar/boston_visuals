@@ -1,4 +1,8 @@
-###########################################
+# ******************************************
+# File Name: visuals.py
+# Description: This file has been adapted to work with sklearn v0.20
+# ******************************************
+
 # Suppress matplotlib user warnings
 # Necessary for newer version of matplotlib
 import warnings
